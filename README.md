@@ -1,5 +1,5 @@
 # ML-Models
-A repository contaning list of trained and planned training models just for learning ML Development
+A repository made for learning contaning list of trained and planned training models just for learning ML Development
 
 AI Models that I will be trying to work on:
 - [ ] Iris dataset
