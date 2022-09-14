@@ -12,6 +12,7 @@ AI Models that I will be trying to work on:
 - [ ] Human face detector
 - [ ] My face detector
 - [ ] Disatance checker using camera
+- [ ] Motion detection using deepsort
 - [ ] Jarvis wake word
 - [ ] Jarvis
 - [ ] AI that plays Dinosaur Game
@@ -38,3 +39,8 @@ AI Models that I will be trying to work on:
 - [ ] Fake face generator (GANN models)
 - [ ] Fake news detection
 - [ ] Stock price prediction
+- [ ] Voice cleaning
+- [ ] text summarization
+- [ ] Image revival
+
+Add models related to Word Embedding — word2vec, Bert , glove
